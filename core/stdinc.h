@@ -84,7 +84,7 @@
 #endif
 #include "pxstring.h"
 //---------------------------------------------------------------------------
-#define PtokaXVersionString "0.5.0.0"
+#define PtokaXVersionString "v1.0 Beta NITW"
 #define BUILD_NUMBER "422"
 
 #ifdef _WIN32

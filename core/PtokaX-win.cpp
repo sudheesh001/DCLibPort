@@ -222,7 +222,7 @@ int __cdecl main(int argc, char* argv[]) {
     ::FreeLibrary(hKernel32);
 #endif
 
-	sTitle = "PtokaX DC Hub " + string(PtokaXVersionString);
+	sTitle = "NIT Warangal e-Library System " + string(PtokaXVersionString);
 #ifdef _DEBUG
 	sTitle += " [debug]";
 #endif
