@@ -1,0 +1,28 @@
+Sat 28 Sep 2013 05:04:03 PM AST - Resolving of hostname '<Enter hub address here>' has failed.
+Check the address please.
+Sat 28 Sep 2013 05:04:31 PM AST - Resolving of hostname '<Enter hub address here>' has failed.
+Check the address please.
+Sat 28 Sep 2013 05:04:40 PM AST - Resolving of hostname '<Enter hub address here>' has failed.
+Check the address please.
+Sat 28 Sep 2013 05:23:42 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Sat 28 Sep 2013 05:23:42 PM AST - Serving started
+Sat 28 Sep 2013 05:24:23 PM AST - Received signal SIGINT ending...
+Sat 28 Sep 2013 05:24:23 PM AST - Serving stopped (UL: 0 [0], DL: 0)
+Sat 28 Sep 2013 05:25:16 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Sat 28 Sep 2013 05:25:16 PM AST - Serving started
+Sat 28 Sep 2013 05:26:09 PM AST - Received signal SIGINT ending...
+Sat 28 Sep 2013 05:26:09 PM AST - Serving stopped (UL: 0 [0], DL: 0)
+Sat 28 Sep 2013 05:26:41 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Sat 28 Sep 2013 05:26:41 PM AST - Serving started
+Sat 28 Sep 2013 05:27:12 PM AST - Received signal SIGINT ending...
+Sat 28 Sep 2013 05:27:12 PM AST - Serving stopped (UL: 0 [0], DL: 0)
+Sat 28 Sep 2013 05:30:39 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Sat 28 Sep 2013 05:30:39 PM AST - Serving started
+Sat 28 Sep 2013 05:33:24 PM AST - Received signal SIGINT ending...
+Sat 28 Sep 2013 05:33:24 PM AST - Serving stopped (UL: 0 [0], DL: 0)
+Sat 28 Sep 2013 05:33:45 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Sat 28 Sep 2013 05:33:45 PM AST - Serving started
+Sat 28 Sep 2013 05:34:11 PM AST - Received signal SIGINT ending...
+Sat 28 Sep 2013 05:34:11 PM AST - Serving stopped (UL: 0 [0], DL: 0)
+Sat 28 Sep 2013 05:50:59 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Sat 28 Sep 2013 05:50:59 PM AST - Serving started
