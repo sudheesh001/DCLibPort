@@ -26,3 +26,15 @@ Sat 28 Sep 2013 05:34:11 PM AST - Received signal SIGINT ending...
 Sat 28 Sep 2013 05:34:11 PM AST - Serving stopped (UL: 0 [0], DL: 0)
 Sat 28 Sep 2013 05:50:59 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
 Sat 28 Sep 2013 05:50:59 PM AST - Serving started
+Sun 29 Sep 2013 11:54:25 PM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Sun 29 Sep 2013 11:54:25 PM AST - Serving started
+Sun 29 Sep 2013 11:57:57 PM AST - Received signal SIGINT ending...
+Sun 29 Sep 2013 11:57:57 PM AST - Serving stopped (UL: 0 [0], DL: 0)
+Mon 30 Sep 2013 12:22:03 AM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Mon 30 Sep 2013 12:22:03 AM AST - Serving started
+Mon 30 Sep 2013 12:24:39 AM AST - Received signal SIGINT ending...
+Mon 30 Sep 2013 12:24:39 AM AST - Serving stopped (UL: 0 [0], DL: 0)
+Mon 30 Sep 2013 12:26:31 AM AST - Server socket bind error: UNDEFINED (13) for port: 411
+Mon 30 Sep 2013 12:26:31 AM AST - Serving started
+Mon 30 Sep 2013 12:29:33 AM AST - Received signal SIGINT ending...
+Mon 30 Sep 2013 12:29:33 AM AST - Serving stopped (UL: 0 [0], DL: 0)
